@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **HTML, CSS, JS**
+- 🌱 I’m currently learning **Problem Solving with C++**
 
 - 👯 I’m looking to collaborate on **Nothing**
 
 - 🤝 I’m looking for help with **Nothing**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **Nothing :)**
 
 - 📫 How to reach me **al-ateek-01@outlook.com**
 
